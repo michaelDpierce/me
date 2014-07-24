@@ -121,17 +121,38 @@ h1, h2, ul, li, p { font-family: 'Roboto', sans-serif; font-weight: 400; }
     background: #3F51B5;
     font-size: 80%;
 }
-    .post-category-web {
+    .rails {
+        background: #e51c23;
+    }
+    .node {
         background: #259b24;
     }
-    .post-category-templates {
-        background: #ffc107;
+
+    .pure {
+        background: #1F8DD6;
     }
-    .post-category-db {
-        background: #673ab7;
+
+    .express {
+        background: #8C8C8C;
     }
-    .post-category-app {
-        background: #e51c23;
+
+    .jquery {
+        background: #0769AD;
+    }
+
+    .slim {
+        background: #FA9D38;
+    }
+
+    .coffeescript {
+        background: #191932;
+    }
+
+    .bootstrap {
+        background: #5D4484;
+    }
+    .angular {
+        background: #5281C2;
     }
 
 .post-images {
@@ -178,4 +199,3 @@ h1, h2, ul, li, p { font-family: 'Roboto', sans-serif; font-weight: 400; }
         bottom: 0;
     }
 }
-
